@@ -8,29 +8,29 @@ LICENSE: [MIT](./license.md)
 
 ## Содержание
 
-1. [Version Control System (VCS).](VCS.md)
+1. [Version Control System (VCS).](./VCS.md)
 
-2. [Git.](git.md)
+2. [Git.](./git.md)
 
 3. [Основные команды.](./commands.md)
    
-   1. [git add](commands\add.md)
+   1. [git add](./commands\add.md)
    
-   2. [git status](commands\status.md)
+   2. [git status](./commands\status.md)
 
-   3. [git diff](commands\diff.md)
+   3. [git diff](./commands\diff.md)
 
-   4. [gif difftool](commands\status.md)
+   4. [gif difftool](./commands\status.md)
 
-   5. [git commit](commands\commit.md)
+   5. [git commit](./commands\commit.md)
 
-   6. [git reset](commands\reset.md)
+   6. [git reset](./commands\reset.md)
 
-   7. [git rm](commands\rm.md)
+   7. [git rm](./commands\rm.md)
 
-   8. [git mv](commands\mv.md)
+   8. [git mv](./commands\mv.md)
 
-   9. [git clean](commands\clean.md)
+   9. [git clean](./commands\clean.md)
 
 4. [Ветвление и слияние.](./branching-and-merging.md)
    
